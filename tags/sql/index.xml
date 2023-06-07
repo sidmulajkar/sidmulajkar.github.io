@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql on &gt; sidmulajkar</title>
+    <link>https://sidmulajkar.com/tags/sql/</link>
+    <description>Recent content in sql on &gt; sidmulajkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Oct 2021 17:26:04 +0530</lastBuildDate><atom:link href="https://sidmulajkar.com/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database Sharding Architectures</title>
+      <link>https://sidmulajkar.com/posts/database-sharding-architectures/</link>
+      <pubDate>Sun, 17 Oct 2021 17:26:04 +0530</pubDate>
+      
+      <guid>https://sidmulajkar.com/posts/database-sharding-architectures/</guid>
+      <description>Once you’ve decided to shard your database, the next thing you need to figure out is how you’ll go about doing so. Your application suddenly becomes popular. Traffic and data are starting to grow, and your database gets more overloaded every day.
+People on the internet tell you to scale your database by sharding, but you don’t know what it means.
+If you haven&amp;rsquo;t read the last blog post and want to know more about Database Sharding check the previous blog &amp;gt; What is Database Sharding</description>
+    </item>
+    
+    <item>
+      <title>What actually is Database Sharding?</title>
+      <link>https://sidmulajkar.com/posts/what-is-database-sharding/</link>
+      <pubDate>Thu, 14 Oct 2021 17:26:04 +0530</pubDate>
+      
+      <guid>https://sidmulajkar.com/posts/what-is-database-sharding/</guid>
+      <description>How often do you shard your database? Do you prematurely shard? Do you actually need that for your database?🤔 &amp;ndash;
+Your application is growing. It has more active users, more features, and generates more data every day.
+Your database is now becoming a bottleneck for the rest of your application. Database sharding could be the solution to your problems.
+But Wait&amp;hellip; Q) What is Database Sharding? Sharding is a method for distributing a single dataset across multiple databases, which can then be stored on multiple machines.</description>
+    </item>
+    
+  </channel>
+</rss>
