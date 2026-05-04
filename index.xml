@@ -1,13 +1,12 @@
-hg<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&gt; sidmulajkar</title>
     <link>https://sidmulajkar.com/</link>
-    <description>A software engineer/researcher who is passionately curious about technology and shares his valuable insights with the community through his blogs.</description>
+    <description>Recent content on &gt; sidmulajkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 26 Dec 2023 17:26:04 +0530</lastBuildDate><atom:link href="https://sidmulajkar.com/index.xml" rel="self" type="application/rss+xml" />
-
     <item>
       <title>My personal thoughts on Mail Privacy</title>
       <link>https://sidmulajkar.com/posts/my-thoughts-on-mail-regarding-privacy/</link>
@@ -246,5 +245,60 @@ hg<?xml version="1.0" encoding="utf-8" standalone="yes"?>
       <guid>https://sidmulajkar.com/posts/best-hosting-provider-2021/</guid>
       <description>At first glance, A2 Hosting might seem like nothing more than another hosting platform that sings high praises then falls flat on the delivery. The features almost seem too good to be true. Everyone claims to be faster than the competitors, but twenty times so? Can A2 Hosting live up to its promises? Let’s take a look.</description>
     </item>
-
+    
+    <item>
+      <title></title>
+      <link>https://sidmulajkar.com/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidmulajkar.com/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sidmulajkar.com/cybersecurity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidmulajkar.com/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sidmulajkar.com/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidmulajkar.com/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sidmulajkar.com/minimalism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidmulajkar.com/minimalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sidmulajkar.com/personal-finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidmulajkar.com/personal-finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sidmulajkar.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidmulajkar.com/privacy/</guid>
+      <description></description>
+    </item>
+    
   </channel>
+</rss>
