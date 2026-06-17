@@ -1,18 +1,25 @@
-hg<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&gt; sidmulajkar</title>
-    <link>https://sidmulajkar.com/</link>
-    <description>A software engineer/researcher who is passionately curious about technology and shares his valuable insights with the community through his blogs.</description>
+    <title>Posts on &gt; sidmulajkar</title>
+    <link>https://sidmulajkar.com/posts/</link>
+    <description>Recent content in Posts on &gt; sidmulajkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Dec 2023 17:26:04 +0530</lastBuildDate><atom:link href="https://sidmulajkar.com/index.xml" rel="self" type="application/rss+xml" />
-
+    <lastBuildDate>Wed, 17 Jun 2026 17:26:04 +0530</lastBuildDate>
+    <atom:link href="https://sidmulajkar.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Missing Layer in AI Security</title>
+      <link>https://sidmulajkar.com/posts/fortress/</link>
+      <pubDate>Wed, 17 Jun 2026 17:26:04 +0530</pubDate>
+      <guid>https://sidmulajkar.com/posts/fortress/</guid>
+      <description>Stop pasting sensitive data into AI tools: the hidden security risk no one talks about—and how real-world data exposure happens long before model safeguards like ChatGPT, Claude, or Copilot ever come into play.
+</description>
+    </item>
     <item>
       <title>My personal thoughts on Mail Privacy</title>
       <link>https://sidmulajkar.com/posts/my-thoughts-on-mail-regarding-privacy/</link>
       <pubDate>Tue, 26 Dec 2023 17:26:04 +0530</pubDate>
-
       <guid>https://sidmulajkar.com/posts/my-thoughts-on-mail-regarding-privacy/</guid>
       <description>Email still remains an Essential Backbone for communication, nearly used by approximately 3-4 billion people. I do not recommend to use email as a privacy tool for communication. Click to learn more on end to end encrypted mail service and much more.</description>
     </item>
@@ -228,24 +235,5 @@ hg<?xml version="1.0" encoding="utf-8" standalone="yes"?>
       <guid>https://sidmulajkar.com/projects/</guid>
       <description>Sentiment-Predictor-for-Stress-Detection-using-Voice. A Machine Learning Project based on the deep learning model that helps in predicting Emotions which eventually helps in detecting the mental state of the person. Trained the model on the RAVDESS Dataset (24 Actors, 1440 audio files) using the CNN Model with the raw mfcc voice sets. This method helped in improving the overall accuracy from 74% to 93% from the other methods.</description>
     </item>
-
-    <item>
-      <title>About</title>
-      <link>https://sidmulajkar.com/about/</link>
-      <pubDate>Thu, 25 Mar 2021 17:26:04 +0530</pubDate>
-
-      <guid>https://sidmulajkar.com/about/</guid>
-      <description>A CS engineer with freelancing experience pivoting into Security.</description>
-    </item>
-
-    <item>
-      <title>Top Hosting Service Provider 2021 - Comprehensive Review for Finding the Best</title>
-      <link>https://sidmulajkar.com/posts/best-hosting-provider-2021/</link>
-      <pubDate>Thu, 25 Feb 2021 17:26:04 +0530</pubDate>
-
-      <guid>https://sidmulajkar.com/posts/best-hosting-provider-2021/</guid>
-      <description>At first glance, A2 Hosting might seem like nothing more than another hosting platform that sings high praises then falls flat on the delivery. The features almost seem too good to be true. Everyone claims to be faster than the competitors, but twenty times so? Can A2 Hosting live up to its promises? Let’s take a look.</description>
-    </item>
-
   </channel>
- </rss>
+</rss>
